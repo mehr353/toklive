@@ -1,2 +1,2 @@
-# toklive
-official toklive ianding page
+# TokLive Website
+This is the official landing page for the TokLive project.
